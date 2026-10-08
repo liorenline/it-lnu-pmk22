@@ -20,4 +20,4 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
-| | |
+| marianarudyk|Mariana Rudyk |
