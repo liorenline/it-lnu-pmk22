@@ -7,7 +7,7 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | |fasywastaken | | |
+| 1 |MintEnder|fasywastaken| | | |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -20,4 +20,5 @@
 
 | GitHub-нік | Ім'я |
 |---|---|
-|fasywastaken |Роман Ласка |
+|MintEnder|Анна Дрань|
+|fasywastaken|Роман Ласка|
