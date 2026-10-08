@@ -7,7 +7,7 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | Karina Malich | Mariana Rudyk | |
+| 1 | | Karina Malich | Mariana Rudyk | cvtgrtrt7-hub Денека Маркіян |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
